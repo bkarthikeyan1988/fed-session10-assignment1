@@ -19,5 +19,5 @@ input {
 	border: 1px solid #333;
 }
 .name-table thead td {border-bottom: 1px solid #333;}
-.name-table td {padding: 15px 25px}
+.name-table td {padding: 15px}
 .name-table td:first-child {border-right: 1px solid #333;}
