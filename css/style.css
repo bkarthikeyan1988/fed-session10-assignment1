@@ -1,0 +1,23 @@
+body {
+	font: normal 12px arial;
+	color: #333;
+}
+button {
+	background: #7ab800;
+	border:0;
+	border-radius: 3px;
+	padding: 3px 15px 5px;
+	color: #fff;
+}
+input {
+	border: 1px solid #428bca;
+	border-radius: 3px;
+	padding: 3px;
+}
+.name-table {
+	margin: 10px 0;
+	border: 1px solid #333;
+}
+.name-table thead td {border-bottom: 1px solid #333;}
+.name-table td {padding: 15px 25px}
+.name-table td:first-child {border-right: 1px solid #333;}
