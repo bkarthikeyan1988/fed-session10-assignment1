@@ -18,6 +18,6 @@ input {
 	margin: 10px 0;
 	border: 1px solid #333;
 }
-.name-table thead td {border-bottom: 1px solid #333;}
-.name-table td {padding: 15px}
-.name-table td:first-child {border-right: 1px solid #333;}
+.name-table thead th {border-bottom: 1px solid #333;}
+.name-table td,.name-table th {padding: 15px 15px}
+.name-table td:first-child,.name-table th:first-child {border-right: 1px solid #333;}
